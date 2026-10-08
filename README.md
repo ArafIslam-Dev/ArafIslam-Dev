@@ -1,16 +1,30 @@
-## Hi there 👋
+![Header](./img/github-header-banner.png)
 
-<!--
-**ArafIslam-Dev/ArafIslam-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,vscode,py,java,html,css,js,figma,bootstrap,tailwind,react,supabase,vercel,nodejs,vite,vue&theme=dark&perline=8)](https://skillicons.dev)
+<br/>
+## About Me
 
-Here are some ideas to get you started:
+**I'm an Information Technology Education student at Rangpur Polytechnic Institute Rangpur who enjoys building digital products that combine technology, design, and user experience**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently, I'm exploring Software Development, UI/UX Design, and Artificial Intelligence while building personal and academic projects.**
+
+## GitHub Stats
+![](https://streak-stats.demolab.com/?user=ArafIslam-Dev&theme=shadow_blue&hide_border=true)<br/>
+
+## Play With Me
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekawahyu-project/ekawahyu-project/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekawahyu-project/ekawahyu-project/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ekawahyu-project/ekawahyu-project/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/ekawahyu-project/ekawahyu-project/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
